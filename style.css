@@ -1,0 +1,9 @@
+header{
+    background-color: red;
+    text-align: center;
+}
+#qrcode{
+  margin: 100px;
+  bottom: 60px;
+  padding-left: 500px;
+}
